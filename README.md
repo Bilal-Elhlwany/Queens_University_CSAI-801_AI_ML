@@ -3,7 +3,7 @@ Its the final project related to course of master in Queen's University in Canad
 ![launch-of-the-coronavirus-covid-19-campaign](https://github.com/Bilal-Elhlwany/Queens_University_CSAI-801_AI_ML/assets/100938358/09a3fefa-b897-4c8d-a5b8-c520bd12e9af)
 CSAI 801 Project: COVID-19 Outcome Prediction
 
-Project Description
+**Project Description**
 
 The data used in this project will help to identify whether a person is going to recover from coronavirus symptoms or not based on some pre-defined standard symptoms. These symptoms are based on guidelines given by the World Health Organization (WHO).
 
@@ -13,7 +13,7 @@ The data is available from 22 Jan, 2020. Data is in “data.csv”.
 
 The dataset contains 14 major variables that will be having an impact on whether someone has recovered or not, the description of each variable are as follows,
 
-**1. Country: where the person resides
+**1. Country: where the person resides**
 
 **2. Location: which part in the Country**
 
@@ -35,13 +35,13 @@ It is required to design different classifiers to the predict the outcome (death
 
 You will have to divide the data into three partitions: training, validation, and testing. You need to design the following classifiers:
 
-**1. K-Nearest Neighbors
+**1. K-Nearest Neighbors**
 
-**2. Logistic Regression
+**2. Logistic Regression**
 
-**3. Naïve Bayes
+**3. Naïve Bayes**
 
-**4. Decision Trees
+**4. Decision Trees**
 
 **5. Support Vector Machines**
 
